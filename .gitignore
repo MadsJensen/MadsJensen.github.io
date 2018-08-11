@@ -1,2 +1,3 @@
-# added by me
-_site/
+_site
+.sass-cache
+.jekyll-metadata
