@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-
-Testing a test
