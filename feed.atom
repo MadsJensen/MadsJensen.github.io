@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+  <title>WEAK AI</title>
+  <subtitle></subtitle>
+  <id>https://axiom-example.netlify.app/</id>
+  <author>
+    <name>WEAK AI</name>
+    <uri>https://axiom-example.netlify.app/</uri>
+  </author>
+  <icon>https://axiom-example.netlify.app/image/brand/icon-1-1.png</icon>
+  <logo>https://axiom-example.netlify.app/image/brand/icon-2-1.png</logo>
+  <updated>2020-05-03T19:44:51Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://axiom-example.netlify.app/feed.atom" hreflang="en-gb"/>
+  <link rel="alternate" type="text/html" href="https://axiom-example.netlify.app/" hreflang="en-gb"/>
+</feed>
