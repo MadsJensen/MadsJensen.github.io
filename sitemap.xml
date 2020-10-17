@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://axiom-example.netlify.app/about/</loc>
+    <loc>http://madsjensen.github.io/about/</loc>
+    <lastmod>2020-05-10T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://madsjensen.github.io/cv/</loc>
     <lastmod>2020-05-03T00:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://axiom-example.netlify.app/cv/</loc>
-    <lastmod>2020-05-03T00:00:00Z</lastmod>
+    <loc>http://madsjensen.github.io/categories/</loc>
   </url>
   <url>
-    <loc>https://axiom-example.netlify.app/</loc>
-    <lastmod>2020-05-03T00:00:00Z</lastmod>
+    <loc>http://madsjensen.github.io/tags/</loc>
   </url>
   <url>
-    <loc>https://axiom-example.netlify.app/categories/</loc>
-  </url>
-  <url>
-    <loc>https://axiom-example.netlify.app/tags/</loc>
+    <loc>http://madsjensen.github.io/</loc>
   </url>
 </urlset>
