@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://madsjensen.github.io/sitemap.xml
+Sitemap: https://axiom-example.netlify.app/sitemap.xml

@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
   <title>WEAK AI</title>
   <subtitle></subtitle>
-  <id>http://madsjensen.github.io/</id>
+  <id>https://axiom-example.netlify.app/</id>
   <author>
     <name>WEAK AI</name>
-    <uri>http://madsjensen.github.io/</uri>
+    <uri>https://axiom-example.netlify.app/</uri>
   </author>
-  <icon>http://madsjensen.github.io/image/brand/icon-1-1.png</icon>
-  <logo>http://madsjensen.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2020-10-17T08:32:12Z</updated>
-  <link rel="self" type="application/atom+xml" href="http://madsjensen.github.io/feed.atom" hreflang="en-gb"/>
-  <link rel="alternate" type="text/html" href="http://madsjensen.github.io/" hreflang="en-gb"/>
+  <icon>https://axiom-example.netlify.app/image/brand/icon-1-1.png</icon>
+  <logo>https://axiom-example.netlify.app/image/brand/icon-2-1.png</logo>
+  <updated>2021-08-06T20:33:02Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://axiom-example.netlify.app/feed.atom" hreflang="en-gb"/>
+  <link rel="alternate" type="text/html" href="https://axiom-example.netlify.app/" hreflang="en-gb"/>
 </feed>
