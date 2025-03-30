@@ -14,6 +14,25 @@ name = "About"
 url = "/about/"
 weight = 2
 
+[[menu.main]]
+identifier = "github"
+url = "https://github.com/MadsJensen"
+weight = 3
+# Surround the menu entry (or name) with HTML content, such as Feather
+# icons: https://feathericons.com
+pre = "<span data-feather='github'></span>"
+post = ""
+
+
+[[menu.main]]
+identifier = "linkedin"
+url = "https://www.linkedin.com/in/mads-jensen-a680aa20/"
+weight = 3
+# Surround the menu entry (or name) with HTML content, such as Feather
+# icons: https://feathericons.com
+pre = "<span data-feather='linkedin'></span>"
+post = ""
+
 
 [caches.images]
 dir = ':cacheDir/images'
