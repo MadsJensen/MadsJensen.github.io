@@ -4,3 +4,12 @@
 [submodule "themes/risotto"]
 	path = themes/risotto
 	url = https://github.com/joeroe/risotto
+[submodule "themes/rusty-typewriter"]
+	path = themes/rusty-typewriter
+	url = https://github.com/math-queiroz/rusty-typewriter
+[submodule "themes/hugotex"]
+	path = themes/hugotex
+	url = https://github.com/kaisugi/HugoTeX
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/gokarna-theme/gokarna-hugo.git
