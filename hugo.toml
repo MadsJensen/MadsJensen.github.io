@@ -1,5 +1,4 @@
-theme = 'ananke'
-
+theme = "risotto"
 
 [caches]
 [caches.images]
